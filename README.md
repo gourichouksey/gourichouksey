@@ -25,31 +25,10 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gourichouksey&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
-</div>
-
----
-
-## 📊 GitHub Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourichouksey&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourichouksey&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gourichouksey&theme=radical"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,js,python,node.js,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,js,python,nodejs,git,github" />
 </div>
 
 ---
@@ -81,14 +60,6 @@
 - 🧠 Uses Machine Learning algorithms  
 - 📊 Data preprocessing and model training  
 - 📈 Helps improve student success rates  
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gourichouksey&theme=high-contrast&hide_border=true"/>
-</div>
 
 ---
 
