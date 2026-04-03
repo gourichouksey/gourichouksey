@@ -25,7 +25,7 @@
 
 - 💻 Software Development 
 - 🤖 Machine Learning & AI Projects  
-- 🌐 Web Development Basics  
+- 🌐 Web Development  
 
 ---
 
@@ -53,7 +53,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,mysql,git,github,powerbi" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,scss,js,python,node.js,git,github" />
 </div>
 
 ---
@@ -71,16 +71,6 @@
       <td>🤖 AI Student Retention System</td>
       <td>📈 Predicts dropout risk using ML</td>
       <td>Python, Machine Learning</td>
-    </tr>
-    <tr>
-      <td>📊 Sales Dashboard</td>
-      <td>📉 Business insights & KPIs</td>
-      <td>Power BI</td>
-    </tr>
-    <tr>
-      <td>💰 Financial Analysis</td>
-      <td>📊 Data-driven decision making</td>
-      <td>Power BI</td>
     </tr>
   </table>
 </div>
@@ -121,7 +111,6 @@
 
 ### 💡 "Code. Build. Innovate. "
 
-⭐ Star your favorite projects ⭐
 
 </div>
 
