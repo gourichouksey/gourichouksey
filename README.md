@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=750&height=80&duration=4000&lines=Hi+👋;+I'm+Gouri+Chouksey!;+Software+Developer+💻;+AI/ML+Engineer+🤖;+Turning+Data+into+Insights+📊" />
 </h1>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-</div>
-
 ---
 
 ## 👩‍💻 About Me
@@ -112,8 +108,4 @@
 ### 💡 "Code. Build. Innovate. "
 
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
