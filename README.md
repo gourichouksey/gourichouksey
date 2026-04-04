@@ -1,6 +1,6 @@
 # Hi, I'm Gouri 👋 👩‍💻
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Gouri%20Chouksey&fontSize=40&fontAlignY=35" alt="banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20&fontSize=40&fontAlignY=35" alt="banner">
 
 I'm a **Backend Developer & AI/ML Enthusiast** who is passionate about building scalable systems, solving real-world problems with data, and continuously learning new technologies.  
 I enjoy working with **backend development, machine learning models, and data-driven applications**.
@@ -36,7 +36,7 @@ Some technologies I love working with include ** Node.js, and databases**, along
 ## 🌎 Find me around the web
 
 <a href="https://github.com/gourichouksey">
-  <img align="right" width="150" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
+  <img align="right" width="120" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 </a>
 
 - 💼 Connect with me on **LinkedIn**  
