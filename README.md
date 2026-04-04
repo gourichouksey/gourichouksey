@@ -1,6 +1,6 @@
 # Hi, I'm Gouri 👋 👩‍💻
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%20&fontSize=40&fontAlignY=35" alt="banner">
+<img src="[https://github.com/gourichouksey/gourichouksey/blob/main/header-image.png.png/api?type=waving&color=gradient&height=200&section=header&text=%20&fontSize=40&fontAlignY=35" alt="banner">
 
 I'm a **Backend Developer & AI/ML Enthusiast** who is passionate about building scalable systems, solving real-world problems with data, and continuously learning new technologies.  
 I enjoy working with **backend development, machine learning models, and data-driven applications**.
