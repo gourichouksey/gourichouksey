@@ -8,17 +8,3 @@ Some technologies I love working with include ** Node.js, and databases**, along
 
 ---
 
-## 🌎 Find me around the web
-
-<a href="https://github.com/gourichouksey">
-  <img align="right" width="120" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
-</a>
-
-- 💼 Connect with me on **LinkedIn**  
-  👉 https://www.linkedin.com/in/gouri-chouksey-b30321291/  
-
-- 💻 Explore my work on **GitHub**  
-  👉 https://github.com/gourichouksey  
-
----
-
