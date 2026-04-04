@@ -8,30 +8,6 @@ Some technologies I love working with include ** Node.js, and databases**, along
 
 ---
 
-## 🚀 What I'm Doing
-
-- 💻 Building backend systems and APIs  
-- 🤖 Developing AI/ML-based projects    
-- 🌱 Currently learning advanced **Full Stack Development & Machine Learning**  
-
----
-
-## 🛠️ Technologies & Tools
-
-- 💻 Languages: C, C++, Python, JavaScript  
-- 🌐 Web: HTML, CSS, SASS, Node.js  
-- 🗄️ Databases: MySQL  
-- 📊 Tools: Git, GitHub  
-
----
-
-## 🌟 Featured Work
-
-- 🤖 **AI Student Retention System**  
-  → Predicts student dropout using machine learning  
-
----
-
 ## 🌎 Find me around the web
 
 <a href="https://github.com/gourichouksey">
@@ -46,4 +22,3 @@ Some technologies I love working with include ** Node.js, and databases**, along
 
 ---
 
-### 💡 *"Building intelligent solutions through backend systems and AI"*
