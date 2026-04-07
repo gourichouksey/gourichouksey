@@ -1,4 +1,4 @@
-# Hi, I'm Gouri 👩🏻‍💻
+# Hello, I'm Gouri 👩🏻‍💻
 
 
 I'm a **Backend Developer & AI/ML Enthusiast** who is passionate about building scalable systems, solving real-world problems with data, and continuously learning new technologies.  
