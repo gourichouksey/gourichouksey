@@ -16,7 +16,7 @@ I'm a **Full Stack Developer focused on Backend Development**, passionate about 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,js,,html,css,nodejs,react,express,python,linux,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=c,js,html,css,nodejs,react,express,python,linux,git,github,docker,vscode" />
 
 </p>
 
