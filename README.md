@@ -42,5 +42,5 @@ I'm a **Full Stack Developer focused on Backend Development**, passionate about 
 <a href="https://www.linkedin.com/in/gouri-chouksey/">LinkedIn</a> •
 <a href="mailto:gourisrishtichouksey@gmail.com">Email</a> •
 <a href="https://gourichouksey.me">Portfolio</a> •
-<a href="https://x.com/gouri_chouksey>X</a>
+<a href="https://x.com/gouri_chouksey">X</a>
 </p>
